@@ -1,0 +1,18 @@
+{
+  "name": "ffff",
+  "description": "scrape images from webpages",
+  "version": "0.0.1",
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "scripts": [
+      "main.js"
+    ],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_title": "Gather ye images"
+  },
+  "manifest_version": 2
+}
