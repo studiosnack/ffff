@@ -1,4 +1,4 @@
-#ffff
+# ffff
 
 * extension
 a chrome extension, turn on dev mode in [chrome://extensions/](chrome://extensions/) and then point it to the extension folders.
